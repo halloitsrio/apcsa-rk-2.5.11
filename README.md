@@ -1,7 +1,5 @@
-# apcsa-rk-2.5
+# apcsa-rkss-2.5.11
 
-includes
-- 25/6
-- 247
-- 258
-- 259
+Authors: Ria Kanwar & SHreya Shingare
+
+Purpose: To complete the AP CSA 2.5.11 assignment successfully
